@@ -1,0 +1,19 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+    width: auto
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    background: cadetblue;
+    flex-wrap: nowrap;
+    align-content: center;
+    height: 46px;
+}
+.Header {
+    
+    display: flex;
+    position: relative;
+    top: 11px;
+}
