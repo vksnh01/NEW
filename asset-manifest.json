@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/first_project/static/css/main.19a754ac.chunk.css",
-    "main.js": "/first_project/static/js/main.52250694.chunk.js",
-    "main.js.map": "/first_project/static/js/main.52250694.chunk.js.map",
-    "runtime-main.js": "/first_project/static/js/runtime-main.0de10ab3.js",
-    "runtime-main.js.map": "/first_project/static/js/runtime-main.0de10ab3.js.map",
-    "static/js/2.387ae078.chunk.js": "/first_project/static/js/2.387ae078.chunk.js",
-    "static/js/2.387ae078.chunk.js.map": "/first_project/static/js/2.387ae078.chunk.js.map",
-    "index.html": "/first_project/index.html",
-    "static/css/main.19a754ac.chunk.css.map": "/first_project/static/css/main.19a754ac.chunk.css.map",
-    "static/js/2.387ae078.chunk.js.LICENSE.txt": "/first_project/static/js/2.387ae078.chunk.js.LICENSE.txt",
-    "static/media/Navbar.css": "/first_project/static/media/food1.791e32d5.jpg",
-    "static/media/img1.612e71e5.jpg": "/first_project/static/media/img1.612e71e5.jpg",
-    "static/media/img2.a7907b5c.jpg": "/first_project/static/media/img2.a7907b5c.jpg",
-    "static/media/img3.34730877.jpg": "/first_project/static/media/img3.34730877.jpg",
-    "static/media/pizza.795bc4d1.jpg": "/first_project/static/media/pizza.795bc4d1.jpg"
+    "main.css": "/NEW/static/css/main.1c2eca17.chunk.css",
+    "main.js": "/NEW/static/js/main.52250694.chunk.js",
+    "main.js.map": "/NEW/static/js/main.52250694.chunk.js.map",
+    "runtime-main.js": "/NEW/static/js/runtime-main.de976872.js",
+    "runtime-main.js.map": "/NEW/static/js/runtime-main.de976872.js.map",
+    "static/js/2.387ae078.chunk.js": "/NEW/static/js/2.387ae078.chunk.js",
+    "static/js/2.387ae078.chunk.js.map": "/NEW/static/js/2.387ae078.chunk.js.map",
+    "index.html": "/NEW/index.html",
+    "static/css/main.1c2eca17.chunk.css.map": "/NEW/static/css/main.1c2eca17.chunk.css.map",
+    "static/js/2.387ae078.chunk.js.LICENSE.txt": "/NEW/static/js/2.387ae078.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/NEW/static/media/food1.791e32d5.jpg",
+    "static/media/img1.612e71e5.jpg": "/NEW/static/media/img1.612e71e5.jpg",
+    "static/media/img2.a7907b5c.jpg": "/NEW/static/media/img2.a7907b5c.jpg",
+    "static/media/img3.34730877.jpg": "/NEW/static/media/img3.34730877.jpg",
+    "static/media/pizza.795bc4d1.jpg": "/NEW/static/media/pizza.795bc4d1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0de10ab3.js",
+    "static/js/runtime-main.de976872.js",
     "static/js/2.387ae078.chunk.js",
-    "static/css/main.19a754ac.chunk.css",
+    "static/css/main.1c2eca17.chunk.css",
     "static/js/main.52250694.chunk.js"
   ]
 }
